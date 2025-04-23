@@ -1,2 +1,2 @@
 # sudoku
-sudokusolver
+sudoku solver
